@@ -2,16 +2,107 @@
   "name": "Pendztagram Extensions",
   "pluginLists": [
     {
-      "name": "GoMov",
+      "name": "Anichi",
       "pluginVersion": 1,
-      "url": "https://raw.githubusercontent.com/Pendztagram/cloudstream-extensions-hexated/master/GoMov/build.gradle.kts",
-      "mainClass": "com.gomov.GoMovProvider"
+      "url": "https://raw.githubusercontent.com/Pendztagram/cloudstream-extensions-hexated/master/Anichi/build.gradle.kts",
+      "mainClass": "com.anichi.AnichiProvider"
+    },
+    {
+      "name": "Anifreakz",
+      "pluginVersion": 1,
+      "url": "https://raw.githubusercontent.com/Pendztagram/cloudstream-extensions-hexated/master/Anifreakz/build.gradle.kts",
+      "mainClass": "com.anifreakz.AnifreakzProvider"
+    },
+    {
+      "name": "Anilibria",
+      "pluginVersion": 1,
+      "url": "https://raw.githubusercontent.com/Pendztagram/cloudstream-extensions-hexated/master/Anilibria/build.gradle.kts",
+      "mainClass": "com.anilibria.AnilibriaProvider"
+    },
+    {
+      "name": "Animasu",
+      "pluginVersion": 1,
+      "url": "https://raw.githubusercontent.com/Pendztagram/cloudstream-extensions-hexated/master/Animasu/build.gradle.kts",
+      "mainClass": "com.animasu.AnimasuProvider"
+    },
+    {
+      "name": "AnimeDekho",
+      "pluginVersion": 1,
+      "url": "https://raw.githubusercontent.com/Pendztagram/cloudstream-extensions-hexated/master/AnimeDekhoProvider/build.gradle.kts",
+      "mainClass": "com.animedekho.AnimeDekhoProvider"
+    },
+    {
+      "name": "AnimeIndo",
+      "pluginVersion": 1,
+      "url": "https://raw.githubusercontent.com/Pendztagram/cloudstream-extensions-hexated/master/AnimeIndoProvider/build.gradle.kts",
+      "mainClass": "com.animeindo.AnimeIndoProvider"
+    },
+    {
+      "name": "AnimeSail",
+      "pluginVersion": 1,
+      "url": "https://raw.githubusercontent.com/Pendztagram/cloudstream-extensions-hexated/master/AnimeSailProvider/build.gradle.kts",
+      "mainClass": "com.animesail.AnimeSailProvider"
+    },
+    {
+      "name": "Animixplay",
+      "pluginVersion": 1,
+      "url": "https://raw.githubusercontent.com/Pendztagram/cloudstream-extensions-hexated/master/Animixplay/build.gradle.kts",
+      "mainClass": "com.animixplay.AnimixplayProvider"
+    },
+    {
+      "name": "Aniworld",
+      "pluginVersion": 1,
+      "url": "https://raw.githubusercontent.com/Pendztagram/cloudstream-extensions-hexated/master/Aniworld/build.gradle.kts",
+      "mainClass": "com.aniworld.AniworldProvider"
+    },
+    {
+      "name": "Anizm",
+      "pluginVersion": 1,
+      "url": "https://raw.githubusercontent.com/Pendztagram/cloudstream-extensions-hexated/master/Anizm/build.gradle.kts",
+      "mainClass": "com.anizm.AnizmProvider"
     },
     {
       "name": "Dutamovie21",
       "pluginVersion": 1,
       "url": "https://raw.githubusercontent.com/Pendztagram/cloudstream-extensions-hexated/master/Dutamovie21/build.gradle.kts",
       "mainClass": "com.dutamovie21.Dutamovie21Provider"
+    },
+    {
+      "name": "Gomov",
+      "pluginVersion": 1,
+      "url": "https://raw.githubusercontent.com/Pendztagram/cloudstream-extensions-hexated/master/Gomov/build.gradle.kts",
+      "mainClass": "com.gomov.GomovProvider"
+    },
+    {
+      "name": "Rebahin",
+      "pluginVersion": 1,
+      "url": "https://raw.githubusercontent.com/Pendztagram/cloudstream-extensions-hexated/master/RebahinProvider/build.gradle.kts",
+      "mainClass": "com.rebahin.RebahinProvider"
+    },
+    {
+      "name": "Samehadaku",
+      "pluginVersion": 1,
+      "url": "https://raw.githubusercontent.com/Pendztagram/cloudstream-extensions-hexated/master/Samehadaku/build.gradle.kts",
+      "mainClass": "com.samehadaku.SamehadakuProvider"
+    },
+    {
+      "name": "Nekopoi",
+      "pluginVersion": 1,
+      "url": "https://raw.githubusercontent.com/Pendztagram/cloudstream-extensions-hexated/master/Nekopoi/build.gradle.kts",
+      "mainClass": "com.nekopoi.NekopoiProvider"
+    },
+    {
+      "name": "Otakudesu",
+      "pluginVersion": 1,
+      "url": "https://raw.githubusercontent.com/Pendztagram/cloudstream-extensions-hexated/master/OtakudesuProvider/build.gradle.kts",
+      "mainClass": "com.otakudesu.OtakudesuProvider"
+    },
+    {
+      "name": "Moflix",
+      "pluginVersion": 1,
+      "url": "https://raw.githubusercontent.com/Pendztagram/cloudstream-extensions-hexated/master/Moflix/build.gradle.kts",
+      "mainClass": "com.moflix.MoflixProvider"
     }
   ]
 }
+
