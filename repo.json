@@ -1,0 +1,17 @@
+{
+  "name": "Pendztagram Extensions",
+  "pluginLists": [
+    {
+      "name": "GoMov",
+      "pluginVersion": 1,
+      "url": "https://raw.githubusercontent.com/Pendztagram/cloudstream-extensions-hexated/master/GoMov/build.gradle.kts",
+      "mainClass": "com.gomov.GoMovProvider"
+    },
+    {
+      "name": "Dutamovie21",
+      "pluginVersion": 1,
+      "url": "https://raw.githubusercontent.com/Pendztagram/cloudstream-extensions-hexated/master/Dutamovie21/build.gradle.kts",
+      "mainClass": "com.dutamovie21.Dutamovie21Provider"
+    }
+  ]
+}
